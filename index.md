@@ -1,4 +1,5 @@
 ## Welcome to GitHub Pages
+WOAH ITS RAVEENA
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -17,9 +18,11 @@ Syntax highlighted code block
 
 - Bulleted
 - List
+- making another point
 
 1. Numbered
 2. List
+3. hello there
 
 **Bold** and _Italic_ and `Code` text
 
